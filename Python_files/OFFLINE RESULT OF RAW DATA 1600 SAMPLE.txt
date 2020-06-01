@@ -1,0 +1,56 @@
+training time for  linear svc : 586.32888 s
+Accuracy: 0.36 (+/- 0.05)
+
+training time for SVC OVO: 12.63328 s
+Accuracy: 0.70 (+/- 0.05)
+
+training time for SVC ovr: 12.81657 s
+Accuracy: 0.70 (+/- 0.05)
+
+training time for KNeighborsClassifier: 13.24841 s
+Accuracy: 0.70 (+/- 0.05)
+
+training time for Forests of randomized tree classfier: 0.69867 s
+Accuracy: 0.95 (+/- 0.02)
+
+training time for Decision tree classfier: 0.23107 s
+Accuracy: 0.91 (+/- 0.03)
+
+training time for Random forest classfier: 0.59614 s
+Accuracy: 0.94 (+/- 0.03)
+
+training time for ExtraTreesClassifier: 0.55601 s
+Accuracy: 0.94 (+/- 0.04)
+
+training time for GradientBoostingClassfier: 8.96987 s
+Accuracy: 0.95 (+/- 0.03)
+
+training time for Naive bayes Gaussian : 0.10804 s
+Accuracy: 0.96 (+/- 0.02)
+
+training time for Naive bayes BernoulliNB : 1.70969 s
+Accuracy: 0.54 (+/- 0.04)
+
+training time for  MLPClassifier : 8.02229 s
+Accuracy: 0.76 (+/- 0.06)
+
+training time for  NearestCentroid : 0.11395 s
+Accuracy: 0.36 (+/- 0.05)
+
+training time for  QuadraticDiscriminantAnalysis : 0.16627 s
+Accuracy: 0.97 (+/- 0.02)
+
+training time for  NuSVC : 24.06901 s
+Accuracy: 0.68 (+/- 0.07)
+
+training time for  PassiveAggressiveClassifier : 0.27286 s
+Accuracy: 0.39 (+/- 0.04)
+
+
+training time for  SGD classfier : 0.38277 s
+Accuracy: 0.26 (+/- 0.09)
+
+
+training time for  linear_model.SGDClassifier : 0.22989 s
+Accuracy: 0.30 (+/- 0.12)
+
